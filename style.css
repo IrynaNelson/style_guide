@@ -1,0 +1,85 @@
+.container {
+    border: 1px solid black;
+    padding: 3em;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.indigo {
+    background-color: #08415C;
+    color: white;
+
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.madder {
+    background-color: #CC2936;
+    color: black;
+}
+
+.baby {
+    background-color: #EBBAB9;
+    color: black;
+}
+
+.mettallic {
+    background-color: #388697;
+    color: black;
+}
+
+.magic {
+    background-color: #B5FFE1;
+    color: black;
+}
+
+.roboto {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.karla {
+    font-family: 'Karla', sans-serif;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
